@@ -17,7 +17,7 @@
 | Service | Description | Pricing |
 |---------|-------------|---------|
 | [whatbroke.today](https://whatbroke.today) | AI-powered outage tracker for 100+ services with Telegram alerts | Free |
-| [Downdetector](https://downdetector.com) | Crowdsourced outage reports | Free |
+| [API Status Check](https://apistatuscheck.com) | Real-time monitoring dashboard for 100+ developer APIs (OpenAI, Stripe, AWS, GitHub). Webhooks, RSS feeds, SVG badges, REST API | Free || [Downdetector](https://downdetector.com) | Crowdsourced outage reports | Free |
 | [istheservicedown.com](https://istheservicedown.com) | Real-time service status checker | Free |
 | [StatusGator](https://statusgator.com) | Status page aggregator for teams | Paid |
 
